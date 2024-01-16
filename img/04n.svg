@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.604" height="24.464" viewBox="0 0 24.604 24.464">
+    <defs>
+        <filter id="r1q6q0lp1a" x="3.941" y="11.317" width="20.617" height="13.147" filterUnits="userSpaceOnUse">
+            <feOffset dx="-1" dy="-1"/>
+            <feGaussianBlur stdDeviation=".5" result="blur"/>
+            <feFlood flood-color="#404040" flood-opacity=".255"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="ooruvt9l3b" x="12.5" y="0" width="12.104" height="8.349" filterUnits="userSpaceOnUse">
+            <feOffset dx="-1" dy="1"/>
+            <feGaussianBlur stdDeviation=".5" result="blur-2"/>
+            <feFlood flood-color="#404040" flood-opacity=".255"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="wtb7glxmac" x="0" y="2.583" width="15.097" height="10.036" filterUnits="userSpaceOnUse">
+            <feOffset dx="1"/>
+            <feGaussianBlur stdDeviation=".5" result="blur-3"/>
+            <feFlood flood-color="#404040" flood-opacity=".255"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Component 23 – 1">
+        <path data-name="Path 29194" d="M101.42 109.155a7.545 7.545 0 0 1-9.029-9.029.886.886 0 0 0-1.361-.924 8.135 8.135 0 0 0 4.021 14.815c.2.015.4.021.6.021a8.072 8.072 0 0 0 6.694-3.522.886.886 0 0 0-.924-1.361z" transform="translate(-78.153 -98.865)" style="fill:#ffc71c"/>
+        <g style="filter:url(#r1q6q0lp1a)">
+            <path data-name="Fill 14" d="M15.141 5.923h-.025a2.665 2.665 0 0 0 .245-1.115A2.9 2.9 0 0 0 12.373 2a3.1 3.1 0 0 0-1.585.432A4.164 4.164 0 0 0 6.944 0a4.042 4.042 0 0 0-4.157 3.916 3.709 3.709 0 0 0 .035.482h-.035A2.71 2.71 0 0 0 0 7.022a2.71 2.71 0 0 0 2.787 2.625h12.354a1.922 1.922 0 0 0 1.977-1.862 1.922 1.922 0 0 0-1.977-1.862" transform="translate(6.69 14.072)" style="fill:#fff;stroke:#eee;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px;opacity:.849"/>
+        </g>
+        <g style="filter:url(#ooruvt9l3b)">
+            <path data-name="Fill 14" d="M7.611 2.977H7.6a1.34 1.34 0 0 0 .123-.561A1.46 1.46 0 0 0 6.219 1a1.56 1.56 0 0 0-.8.217A2.093 2.093 0 0 0 3.49 0 2.032 2.032 0 0 0 1.4 1.968a1.865 1.865 0 0 0 .017.242H1.4A1.362 1.362 0 0 0 0 3.529a1.362 1.362 0 0 0 1.4 1.32h6.21a.966.966 0 0 0 .99-.936.966.966 0 0 0-.994-.936" transform="translate(15.25 .752)" style="fill:#fff;stroke:#eee;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px;opacity:.849"/>
+        </g>
+        <g style="filter:url(#wtb7glxmac)">
+            <path data-name="Fill 14" d="M10.258 4.013h-.017a1.806 1.806 0 0 0 .166-.756 1.968 1.968 0 0 0-2.024-1.905 2.1 2.1 0 0 0-1.074.293A2.821 2.821 0 0 0 4.7 0a2.738 2.738 0 0 0-2.812 2.653 2.513 2.513 0 0 0 .024.326h-.024A1.836 1.836 0 0 0 0 4.757a1.836 1.836 0 0 0 1.888 1.779h8.369A1.3 1.3 0 0 0 11.6 5.274a1.3 1.3 0 0 0-1.339-1.261" transform="translate(.75 4.332)" style="fill:#fff;stroke:#eee;stroke-linecap:round;stroke-linejoin:round;stroke-width:.5px;opacity:.849"/>
+        </g>
+    </g>
+</svg>
